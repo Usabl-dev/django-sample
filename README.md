@@ -6,3 +6,7 @@ This is a basic app created by following the [Django getting started tutorial](h
 
 1. Create a virtualenv: `python3 -m venv ./venv`
 1. Activate the virtualenv `source venv/bin/activate`
+
+## Running app
+
+`python manage.py runserver`
