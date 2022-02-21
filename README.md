@@ -19,5 +19,6 @@ This is a basic app created by following the [Django getting started tutorial](h
 
 1. Start webserver with `python manage.py runserver`
 1. Open up localhost:8000/admin or http://127.0.0.1:8000/admin in your browser
-1. Create a question to ask users of your website, following [instructions here](https://docs.djangoproject.com/en/4.0/intro/tutorial02/#explore-the-free-admin-functionality)
+1. Log in with the username and password you just created
+1. Create a question to ask users of your website, following [instructions here](https://scribehow.com/shared/Adding_a_sample_question_through_Django_admin_interface__xDHLL6UiRpu46ZPhH-hO9w)
 1. Open up the main site at localhost:8000/ or http://127.0.0.1:8000/. You should see the question you just created.
